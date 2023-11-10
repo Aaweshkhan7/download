@@ -1,6 +1,6 @@
 <?php
 define('BUFSIZ', 4095);
-$url = 'https://filestreambot-pradarsh12.koyeb.app/13903/codecanyon_20759294_playtube_the_ultimate_php_video_sharing_platform.zip?hash=AgADMQ'; 
+$url = 'https://sports.avrkhub.xyz/Pathaan%2520%282023%29%2520Hindi%2520720p%2520HEVC%2520WEBDL%2520ESub%2520%5BBollyFlix%5D.m3u8'; 
 $rfile = fopen($url, 'r');
 $lfile = fopen(basename($url), 'w');
 while(!feof($rfile))
